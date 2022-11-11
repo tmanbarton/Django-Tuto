@@ -83,7 +83,7 @@ DATABASES = {
     #     'HOST': os.environ["PGHOST"],
     #     'PORT': os.environ["PGPORT"],
     # }
-'default': {
+    'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'name',
         'USER': 'user',
